@@ -8,6 +8,12 @@ Install and upgrade quickly Windows Applications and Software
 winget upgrade --all
 ```
 
+## Install Winget Application
+
+```
+winget install APPLICATION_NAME
+```
+
 ## Uninstall Winget Application
 
 ```
