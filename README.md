@@ -23,5 +23,5 @@ winget uninstall APPLICATION_NAME
 ## Useful Software
 
 ```
-brew winget vlc
+winget install vlc
 ```
